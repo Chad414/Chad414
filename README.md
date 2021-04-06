@@ -9,16 +9,17 @@
 ![swift](https://img.shields.io/static/v1?logo=swift&label=&message=Swift&color=111&logoColor=AAA&style=flat-square)
 ![java](https://img.shields.io/static/v1?logo=java&label=&message=Java&color=111&logoColor=AAA&style=flat-square)
 ![csharp](https://img.shields.io/static/v1?logo=c-sharp&label=&message=C%23&color=111&logoColor=AAA&style=flat-square)
-![kotlin](https://img.shields.io/static/v1?logo=kotlin&label=&message=Kotlin&color=111&logoColor=AAA&style=flat-square)
+![Clojure](https://img.shields.io/static/v1?logo=Clojure&label=&message=Clojure&color=111&logoColor=AAA&style=flat-square)
 ![html](https://img.shields.io/static/v1?logo=html5&label=&message=HTML/CSS&color=111&logoColor=AAA&style=flat-square)
+![sh](https://img.shields.io/static/v1?logo=GNU Bash&label=&message=Bash&color=111&logoColor=AAA&style=flat-square)
 <br/>
 ![tools](https://img.shields.io/static/v1?label=&message=Tools:&color=555&style=flat-square)
 ![visualstudiocode](https://img.shields.io/static/v1?logo=visual-studio-code&label=&message=Visual%20Studio%20Code&color=111&logoColor=AAA&style=flat-square)
 ![intellij](https://img.shields.io/static/v1?logo=intellij-idea&label=&message=IntelliJ%20IDEs&color=111&logoColor=AAA&style=flat-square)
 ![xcode](https://img.shields.io/static/v1?logo=xcode&label=&message=Xcode&color=111&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=111&logoColor=AAA&style=flat-square)
-![arch](https://img.shields.io/static/v1?logo=arch-linux&label=&message=Arch%20Linux&color=111&logoColor=AAA&style=flat-square)
-![vim](https://img.shields.io/static/v1?logo=vim&label=&message=Vim&color=111&logoColor=AAA&style=flat-square)
+![Ubuntu](https://img.shields.io/static/v1?logo=Ubuntu&label=&message=Ubuntu%20Linux&color=111&logoColor=AAA&style=flat-square)
+![GNU Emacs](https://img.shields.io/static/v1?logo=GNU Emacs&label=&message=GNU Emacs&color=111&logoColor=AAA&style=flat-square)
 ![azure](https://img.shields.io/static/v1?logo=microsoft-azure&label=&message=Azure&color=111&logoColor=AAA&style=flat-square)
 <br/>
 ![technologies](https://img.shields.io/static/v1?label=&message=Technologies:&color=555&style=flat-square)
@@ -27,13 +28,13 @@
 ![node](https://img.shields.io/static/v1?logo=node.js&label=&message=Node.js&color=111&logoColor=AAA&style=flat-square)
 ![react](https://img.shields.io/static/v1?logo=react&label=&message=React&color=111&logoColor=AAA&style=flat-square)
 
-**Software Engineer** &#12299;undergrad at the University of Michigan (graduating soon!)
+**Software Engineer** &#12299;undergrad at the University of Michigan (graduating 2020-04-18!)
 <br/>
 **Mobile Developer** &#12299;well versed in native iOS and Android libraries
 <br/>
-**Fullstack Developer** &#12299;currently mastering React & Express
+**Fullstack Developer** &#12299;Mastered React & Express
 <br/>
-**Emulator Developer** &#12299;gameboy emulator in development
+**Emulator Developer** &#12299;Created a CHIP-8 and Gameboy emulator.
 
 ----
 
