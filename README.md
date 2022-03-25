@@ -27,9 +27,9 @@
 ![node](https://img.shields.io/static/v1?logo=node.js&label=&message=Node.js&color=111&logoColor=AAA&style=flat-square)
 ![react](https://img.shields.io/static/v1?logo=react&label=&message=React&color=111&logoColor=AAA&style=flat-square)
 
-**Software Engineer** &#12299;undergrad at the University of Michigan (graduating soon!)
+**Software Engineer** &#12299;bachelor of science from University of Michigan
 <br/>
-**Mobile Developer** &#12299;well versed in native iOS and Android libraries
+**Mobile Developer** &#12299;well versed in native iOS and Android libraries (Currently working on the Little Caesars app)
 <br/>
 **Fullstack Developer** &#12299;currently mastering React & Express
 <br/>
